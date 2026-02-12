@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Portfólio Douglas"
+title                    : "Meu Portfolio"
 title_separator          : "-"
 name                     : &name "Douglas de Oliveira Martins"
 description              : &description "Estatístico — Portfólio de projetos e habilidades"   # Update this with a general description of your site, this is the default if not overridden by a page
