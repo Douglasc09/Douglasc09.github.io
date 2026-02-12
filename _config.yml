@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
-author: "Douglas de Oliveira Martins"
-  # Biographic information
+author:
+  name             : "Douglas de Oliveira Martins"
   avatar           : "profile.png"
-  name             : "Douglas Oliveira"
-  bio              : "Estudante de estatística e analista de dados"
-  location         : "Juiz de Fora"
-  employer         : #""
-  email            : "douglas.estatistico@gmail.com" 
+  bio              : "Estatístico e Analista de Dados"
+  location         : "Juiz de Fora, MG"
+  email            : "douglas.estatistico@gmail.com"
+  github           : "Douglasc09"
+  linkedin         : "douglas-oliveira-7b787623b" 
 
   # Academic websites
   #academia         : # URL
