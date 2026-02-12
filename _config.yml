@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   name             : "Douglas de Oliveira Martins"
-  avatar           : "profile.jpg"
+  avatar           : "/images/profile.png"
   bio              : "Estatístico e Analista de Dados <br> ✉️ douglas.estatistico@gmail.com"
   location         : "Juiz de Fora, MG"
   #email            : "douglas.estatistico@gmail.com"
