@@ -1,15 +1,28 @@
 ---
-title: "Meu Primeiro Projeto"
-excerpt: "Uma breve descrição do que eu fiz neste projeto (foto aparecendo de exemplo.<br/><img src='/images/profile.jpg'>"
+title: "Espiral Climática"
+excerpt: "Uma animação que mostra a análise da evolução das anomalias climáticas desde 1880.<br/><img src='/images/ultimo_frame_espiral_climatica.png'>"
 collection: portfolio
 date: 2026-02-12
 ---
 
 ## Resumo
 
-Este é um exemplo de projeto para testar meu portfólio.
+Este é um projeto inspirado na animação Climate Spiral da NASA, idealizada por Ed Hawkins.
+Utilizei um banco de dados disponibilizado oficialmente pela organização, que nos dá informações de 1880-2025, o resultado foi uma animação de um gráfico em espiral mostrando a evolução mês a mês de cada ano em poucos segundos.
 
-Aqui eu posso explicar:
-* O problema que resolvi
-* As ferramentas que usei (Python, R, Excel)
-* Os resultados que obtive
+Fiz uso puramente da linguagem R, além de conceitos matemáticos como coordenadas polares para a lógica de funcionamento.
+Para acessar o projeto como um todo, seguir links abaixo.
+
+---
+
+## 🔗 Links do Projeto
+
+* [💻 Repositório do projeto no GitHub](https://github.com/Douglasc09/animacao-espiral-climatica)
+* [📄 Relatório Técnico](https://Douglasc09.github.io/files/Relatorio_tecnico.html)
+* [📊 Dashboard](https://Douglasc09.github.io/files/dashboard.html)
+
+---
+
+## 👁️ Pré-visualização do Dashboard
+
+<iframe src="https://Douglasc09.github.io/files/dashboard.html" width="100%" height="600px" style="border:none;"></iframe>
