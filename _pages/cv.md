@@ -11,7 +11,7 @@ redirect_from:
 
 ## Currículo Acadêmico e Profissional
 
-Você pode fazer o download do meu CV completo em PDF clicando aqui. (Depois te ensino a colocar o link do PDF).
+Você pode fazer o download do meu CV completo em PDF clicando aqui..
 
 ### Formação
 
@@ -21,6 +21,6 @@ Você pode fazer o download do meu CV completo em PDF clicando aqui. (Depois te 
 
 ### Habilidades
 
-* Python (Pandas, Scikit-learn)
+* Python
 * R
-* SQL
+* Excel
