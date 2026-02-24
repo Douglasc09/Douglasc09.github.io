@@ -17,9 +17,9 @@ Para acessar o projeto como um todo, seguir links abaixo.
 
 ## 🔗 Links do Projeto
 
-* [💻 Repositório do projeto no GitHub](https://github.com/Douglasc09/animacao-espiral-climatica)
-* [📄 Relatório Técnico](https://Douglasc09.github.io/files/Relatorio_tecnico.html)
-* [📊 Dashboard](https://Douglasc09.github.io/files/dashboard.html)
+* [💻 Repositório do projeto no GitHub](https://github.com/Douglasc09/animacao-espiral-climatica){:target="_blank"}
+* [📄 Relatório Técnico](https://Douglasc09.github.io/files/Relatorio_tecnico.html){:target="_blank"}
+* [📊 Dashboard](https://Douglasc09.github.io/files/dashboard.html){:target="_blank"}
 
 ---
 
