@@ -23,6 +23,10 @@ Para acessar o projeto como um todo, seguir links abaixo.
 
 ---
 
-## 👁️ Pré-visualização do Dashboard
+## 🕵🏾‍♀️ Pré-visualização do Dashboard
 
 <iframe src="https://Douglasc09.github.io/files/dashboard.html" width="100%" height="600px" style="border:none;"></iframe>
+
+## 🕵🏾‍♀️ Pré-visualização do Relatório Técnico
+
+<iframe src="https://Douglasc09.github.io/files/Relatorio_tecnico.html" width="100%" height="600px" style="border:none;"></iframe>
