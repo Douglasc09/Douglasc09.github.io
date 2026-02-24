@@ -2,7 +2,7 @@
 title: "Espiral Climática"
 excerpt: "Uma animação que mostra a análise da evolução das anomalias climáticas desde 1880.<br/><img src='/images/ultimo_frame_espiral_climatica.png'>"
 collection: portfolio
-date: 2026-02-12
+date: 2026-02-24
 ---
 
 ## Resumo
