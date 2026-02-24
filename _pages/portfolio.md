@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Abaixo você encontra alguns dos projetos de Ciência de Dados e Estatística que desenvolvi.
+Abaixo você encontra alguns dos projetos que desenvolvi.
 
 <div class="grid__wrapper">
   {% for post in site.portfolio %}
