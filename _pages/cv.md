@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Baixe meu currículo em PDF clicando aqui](https://Douglasc09.github.io/files/Curriculo_27_02_26.pdf){:target="_blank" .btn .btn--info}
+[Baixe meu currículo em PDF clicando aqui](https://Douglasc09.github.io/files/curriculo_27_02_26.pdf){:target="_blank" .btn .btn--info}
 
 ## Habilidades
 * R (intermediário); Python (Básico); SQL (básico); Excel (básico); R Markdown
