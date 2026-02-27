@@ -8,10 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+##### Última atualização em dd/mm/yy
 
-## Currículo Acadêmico e Profissional
+## Currículo
 
-Você pode fazer o download do meu CV completo em PDF clicando aqui..
+Baixe meu CV completo em PDF clicando aqui.
 
 ### Formação
 
