@@ -2,7 +2,7 @@
 title: "Intervalos de confiança com Bootstrap"
 excerpt: "Uma abordagem não-paramétrica para calcular intervalos de confiança por meio de reamostragem.<br/><img src='/images/bootstrap_thumb.png'>"
 collection: portfolio
-date: 2026-02-24
+date: 2026-02-27
 ---
 
 ## Resumo
