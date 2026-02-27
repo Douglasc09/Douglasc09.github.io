@@ -26,7 +26,7 @@ redirect_from:
 * Responsável pela limpeza de dados e tratamento de outliers, testes e modelagem com bases de dados do Sebrae.
 * Desenvolvimento de dashboards e relatórios técnicos.
 
-*Analista de dados em uma tese de Doutorado (UFOP)| Atual*
+**Analista de dados em uma tese de Doutorado (UFOP) | Atual**
 * Contribuição para a tese "Avaliação do potencial de desenvolvimento empresarial de empresas da construção civil".
 * Aplicação de métodos paramétricos e não paramétricos para testes de hipóteses.
 
