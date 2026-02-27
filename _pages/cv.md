@@ -12,8 +12,7 @@ redirect_from:
 *Download do currículo em PDF disponível em breve.*
 
 ## Habilidades
-* R (intermediário); Python (Básico); SQL (básico)
-* Excel (básico); R Markdown
+* R (intermediário); Python (Básico); SQL (básico); Excel (básico); R Markdown
 
 ---
 
