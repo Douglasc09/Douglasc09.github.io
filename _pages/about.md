@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Olá!
-
-Sou estudante de Estatística na Universidade Federal de Juiz de Fora (UFJF).
+Olá! Sou estudante de Estatística na Universidade Federal de Juiz de Fora (UFJF).
 Aqui compartilho um portfólio com alguns projetos, entre eles trabalhos envolvendo limpeza, análise e visualização de dados.
 
 No momento, atuo como analista de dados de iniciação científica no projeto "Ecossistema de Inovação na Construção Civil Mineira: Barreiras e Oportunidades para a Transformação do Setor", em que trabalho com um banco de dados do Sebrae (Serviço Brasileiro de Apoio às Micro e Pequenas Empresas).
