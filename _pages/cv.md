@@ -12,7 +12,7 @@ redirect_from:
 [Baixe meu currículo em PDF clicando aqui](https://Douglasc09.github.io/files/curriculo_27_02_26.pdf){:target="_blank" .btn .btn--info}
 
 ## Habilidades
-* Análise de dados | R
+* Análise de dados ; R
 
 ---
 
