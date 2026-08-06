@@ -8,13 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Olá! Sou estudante de Estatística na Universidade Federal de Juiz de Fora (UFJF).
-Aqui compartilho um portfólio com alguns projetos, entre eles trabalhos envolvendo limpeza, análise e visualização de dados.
+Sou graduando de Estatística na Universidade Federal de Juiz de Fora (UFJF), e nessa página mantenho meu portfólio.
 
-No momento, atuo como analista de dados de iniciação científica no projeto "Ecossistema de Inovação na Construção Civil Mineira: Barreiras e Oportunidades para a Transformação do Setor", em que trabalho com um banco de dados do Sebrae (Serviço Brasileiro de Apoio às Micro e Pequenas Empresas).
-Além disso, sou responsável pelas análises estatísticas em uma tese de doutorado focada no desenvolvimento e inovação de empresas do setor de construção civil.
+Tenho experiência com limpeza, análise e visualização de dados, especialmente com dados do Sebrae (Serviço Brasileiro de Apoio às Micro e Pequenas Empresas), atuando como analista de dados em uma tese de doutorado focada no desenvolvimento e inovação de empresas.
+Em geral, uso a linguagem R e Excel, mas tenho conhecimento de outras ferramentas e aprendo com facilidade considerável, estando confiante de que posso lidar com qualquer ferramenta ou linguagem que seja necessária.
 
-Tenho trabalhado com limpeza de dados, tratamento de outliers, teste e validação de hipóteses, modelagem por meio de métodos paramétricos e não paramétricos, visualização em gráficos, e relatórios em formato de dashboard. Para isso, faço uso de ferramentas como R e Excel.
-
-Sinta-se à vontade para explorar essa página e entrar em contato!
-
+Meu e-mail de contato é douglas.estatistico@gmail.com
