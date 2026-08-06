@@ -3,6 +3,7 @@ title: "Análise de terremotos por processo de poisson"
 excerpt: "Uma análise probabilística dos terremotos ocorridos no mês de Junho de 2026 ao redor do mundo.<br/><img src='/images/thumb_terremotos_poisson.png'>"
 collection: portfolio
 date: 2026-07-22
+order: 1
 ---
 
 ## Resumo
