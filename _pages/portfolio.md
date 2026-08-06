@@ -7,10 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign sorted_portfolio = site.portfolio | sort: "order" %}
+{% assign portfolio_sorted = site.portfolio | sort: "date" | reverse %}
 
 <div class="grid__wrapper">
-  {% for post in sorted_portfolio %}
+  {% for post in portfolio_sorted %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
