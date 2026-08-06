@@ -1,0 +1,5 @@
+0. criar um repositório do projeto no github
+1. adicionar o arquivo do projeto em files
+2. adicionar thumb do projeto em images
+3. criar página do projeto em portfolio com formato .md
+4. personalizar a página do projeto
