@@ -10,7 +10,7 @@ date: 2026-02-24
 Este é um projeto inspirado na animação Climate Spiral da NASA, idealizada por Ed Hawkins.
 Utilizei um banco de dados disponibilizado oficialmente pela organização, que nos dá informações de 1880-2025, o resultado foi uma animação de um gráfico em espiral mostrando a evolução mês a mês de cada ano em poucos segundos.
 
-Fiz uso da linguagem R, além de conceitos matemáticos como coordenadas polares para a lógica de funcionamento.
+Fiz uso da linguagem R, além de conceitos matemáticos como coordenadas polares para a lógica de funcionamento. 
 Para acessar o projeto como um todo, seguir links abaixo.
 
 ---
