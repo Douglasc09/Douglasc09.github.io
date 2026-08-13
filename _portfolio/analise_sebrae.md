@@ -17,3 +17,9 @@ Para acessar o projeto, basta seguir os links abaixo ou usar a pré-visualizaç�
 ## 🔗 Link do Projeto
 
 * [💻 Repositório do projeto no GitHub](https://github.com/Douglasc09/analises-sebrae-programa-ali){:target="_blank"}
+
+---
+
+## 🕵🏾‍♀️ Pré-visualização do Estudo
+
+<iframe src="https://Douglasc09.github.io/files/analise_mpes_sebrae.html" width="100%" height="600px" style="border:none;"></iframe>
