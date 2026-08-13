@@ -8,7 +8,7 @@ date: 2026-08-12
 ## Resumo
 
 Este projeto é um recorte dos objetivos, métodos e resultados de uma Iniciação Científica, na qual analisei, no decorrer de meses, os dados do Programa ALI (Agentes Locais de Inovação) do Sebrae.
-Nele, incluí os resultados e insights que achei que mais contribuíram para a pesquisa e para o meu desenvolvimento. O projeto como um todo é uma pesquisa de doutorado acerca do ramo de construção civil e empreendedorismo.
+Nele, incluí os resultados e insights que achei que mais contribuíram para a pesquisa e para o meu desenvolvimento. O projeto como um todo é a parte de análise de dados, pela qual fiquei responsável, de uma pesquisa de doutorado acerca do ramo de construção civil e empreendedorismo.
 
 Para acessar o projeto, basta seguir os links abaixo ou usar a pré-visualização.
 
