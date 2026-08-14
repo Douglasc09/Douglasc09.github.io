@@ -1,5 +1,5 @@
 ---
-title: "ANálise da inovação e desempenho de MPEs - Programa ALI/Sebrae"
+title: "Análise da inovação e desempenho de MPEs - Programa ALI/Sebrae"
 excerpt: "Uma análise do desempenho das empresas participantes do Programa ALI do Sebrae, no ramo de Construção Civil.<br/><img src='/images/thumb_projeto_sebrae.png'>"
 collection: portfolio
 date: 2026-08-12
