@@ -11,7 +11,7 @@ redirect_from:
 
 [Baixe meu currículo em PDF clicando aqui](https://Douglasc09.github.io/files/Douglas_Oliveira_CV.pdf){:target="_blank" .btn .btn--info}
 
-Juiz de Fora - MG | douglas.estatistico@gmail.com | [Portfólio GitHub](https://douglasc09.github.io/portfolio/) | [Linkedin](https://www.linkedin.com/in/douglas-oliveira-7b787623b/)
+Juiz de Fora - MG ; douglas.estatistico@gmail.com ; [Portfólio GitHub](https://douglasc09.github.io/portfolio/) ; [Linkedin](https://www.linkedin.com/in/douglas-oliveira-7b787623b/)
 
 ## Objetivo
 
@@ -19,24 +19,24 @@ Estudante de Estatística na Universidade Federal de Juiz de Fora, com experiên
 
 ## **Hard skills**
 
-- Análise de dados | R | Excel | Visualização de dados | Inferência estatística
+- Análise de dados ; R ; Excel ; Visualização de dados ; Inferência estatística
 
 ## Soft skills
 
-Pensamento analítico | Comunicação | Organização
+Pensamento analítico ; Comunicação ; Organização
 
 ---
 
 ## **Experiência**
 
-**Iniciação Científica** *Universidade Federal de Juiz de Fora (UFJF) | Atual*
+**Iniciação Científica** *Universidade Federal de Juiz de Fora (UFJF) ; Atual*
 
 - Pesquisa aplicada ao potencial de desenvolvimento empresarial de micro e pequenas empresas (MPEs), no projeto *Ecossistema de Inovação na Construção Civil Mineira*.
 - Análise de dados do Programa ALI (Sebrae).
 - Aplicação de métodos estatísticos não paramétricos
 - Elaboração de relatórios para apresentação dos resultados
 
-**Monitor de Laboratório de Física** *Universidade Federal de Juiz de Fora (UFJF) | Abr 2024 – Ago 2025*
+**Monitor de Laboratório de Física** *Universidade Federal de Juiz de Fora (UFJF) ; Abr 2024 – Ago 2025*
 
 - Apoio em aulas práticas de laboratório e na interpretação de resultados
 - Análise dos dados obtidos com estatística descritiva
@@ -60,7 +60,7 @@ Pensamento analítico | Comunicação | Organização
 
 ## **Formação**
 
-- **Bacharelado em Estatística —** Universidade Federal de Juiz de Fora (UFJF) | *Em andamento*
+- **Bacharelado em Estatística —** Universidade Federal de Juiz de Fora (UFJF) ; *Em andamento*
 
 ## **Idiomas**
 
