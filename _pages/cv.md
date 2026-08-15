@@ -23,7 +23,7 @@ Estudante de Estatística na Universidade Federal de Juiz de Fora, com experiên
 
 ## Soft skills
 
-Pensamento analítico ; Comunicação ; Organização
+- Pensamento analítico ; Comunicação ; Organização
 
 ---
 
