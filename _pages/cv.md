@@ -19,7 +19,7 @@ Estudante de Estatística na Universidade Federal de Juiz de Fora, com experiên
 
 ## **Hard skills**
 
-- Análise de dados ; R ; Excel ; Visualização de dados ; Inferência estatística
+- Análise de dados ; R ; Excel ; Power BI ; SQL ; Visualização de dados ; Inferência
 
 ## Soft skills
 
